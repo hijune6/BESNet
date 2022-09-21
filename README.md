@@ -31,3 +31,16 @@ For test, run:
 sh Eval.sh
 ```
 For different datasets, please manully change `dataset` in `Eval.sh`.
+
+# Citation
+Please kindly cite the following paper in your publications if it helps your research:
+```
+@article{Chen2022BESNetBE,
+  title={BES-Net: Boundary Enhancing Semantic Context Network for High-Resolution Image Semantic Segmentation},
+  author={Fenglei Chen and Haijun Liu and Zhihong Zeng and Xichuan Zhou and Xiaoheng Tan},
+  journal={Remote. Sens.},
+  year={2022},
+  volume={14},
+  pages={1638}
+}
+```
