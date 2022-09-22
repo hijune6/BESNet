@@ -38,7 +38,7 @@ Please kindly cite the following paper in your publications if it helps your res
 @article{Chen2022BESNetBE,
   title={BES-Net: Boundary Enhancing Semantic Context Network for High-Resolution Image Semantic Segmentation},
   author={Fenglei Chen and Haijun Liu and Zhihong Zeng and Xichuan Zhou and Xiaoheng Tan},
-  journal={Remote. Sens.},
+  journal={Remote Sensing},
   year={2022},
   volume={14},
   pages={1638}
